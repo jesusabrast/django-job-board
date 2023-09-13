@@ -31,3 +31,7 @@ home
 
 
 login 
+
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
